@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c93399d5-c8fa-4b47-a8d4-61dd07760274" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../cofre-credenciais-java/src/CofreCredenciais.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CofreDeCredenciais/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CofreDeCredenciais/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CofreDeCredenciais/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CofreDeCredenciais/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +51,8 @@
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
   <component name="RunManager">
@@ -81,6 +82,11 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../CofreDeCredenciais" />
+    </ignored-roots>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/CofreDeCredenciais_$Main.ic" NAME="Main Coverage Results" MODIFIED="1794783786902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
